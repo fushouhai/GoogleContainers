@@ -1,0 +1,2 @@
+# GoogleContainers
+local registry
